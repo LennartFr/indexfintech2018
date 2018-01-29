@@ -1,19 +1,18 @@
 # indexfintech2018
 
-# Learn How to Build FinTech Applications that Use Watson AI
-## URL: [http://bit.ly/2wRZdWt](http://bit.ly/2wRZdWt)
-
 Lennart alf@us.ibm.com
 
 ## [*Sign up for the IBM Cloud at no cost*](https://bluemix.net)
 
+# Title: Building Blocks for a Fintech World, IBM Cloud-based Services for Building Innovative Fintech Apps
 
-# Title:
-<i>
-Building Blocks for a Fintech World, IBM Cloud-based Services for Building Innovative Fintech Apps
-The workshop will cover the IBM finance services hosted on the IBM Cloud:  Instrument Analytics and its various versions, Investment Portfolio, Portfolio Optimization, Predictive Market Scenarios, focusing on APIs and integration points. In addition to working with the selected finance services from IBM, they will also work with services from Cloud-based business partners, focusing on Quovo and also including : Accern API, Payeezy, Plaid and Xignite Market Data APIs. The students will learn what each service provides, their APIs and how they fit with the IBM finance services.
-</i>
+12:00 PM-12:30 PM|Tuesday, Feb. 20
+Moscone West/Level 2, Room 2006
+Session type: Workshop
 
+The workshop will cover the IBM finance services hosted on the IBM Cloud: Instrument Analytics and its various versions, Investment Portfolio, Portfolio Optimization, Predictive Market Scenarios, focusing on APIs and integration points. In addition to working with the selected finance services from IBM, they will also work with services from Cloud-based business partners, focusing on Quovo and also including: Accern API, Payeezy, Plaid and Xignite Market Data APIs.
+
+https://developer.ibm.com/indexconf/sessions/#!?id=5454
 
 
 
