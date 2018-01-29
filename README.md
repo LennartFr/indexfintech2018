@@ -1,5 +1,7 @@
 # indexfintech2018
 
+<img src="https://farm5.staticflickr.com/4759/28189306259_b23c184cf5_z.jpg" width="623" height="361" alt="Index"><p>
+
 Lennart alf@us.ibm.com
 
 ## [*Sign up for the IBM Cloud at no cost*](https://bluemix.net)
