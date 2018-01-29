@@ -20,8 +20,6 @@ https://developer.ibm.com/indexconf/sessions/#!?id=5454
 
 ## Financial apps from IBM Business Partners in the IBM Cloud Catalog
 
-<img src="https://farm5.staticflickr.com/4434/37101837360_9ed47fae43_z.jpg" width="640" height="326" alt="Screen Shot 2017-09-27 at 12.44.55">
-
 * [Accern-API](https://console.bluemix.net/catalog/services/accern-api)
 * [Bondevalue API](https://console.bluemix.net/catalog/services/bondevalue-api)
 * [Payeezy](https://console.bluemix.net/catalog/services/payeezy)
@@ -32,8 +30,6 @@ https://developer.ibm.com/indexconf/sessions/#!?id=5454
 * [WealthEngine API](https://console.bluemix.net/catalog/services/wealthengine-api)
 
 ## IBM Experimental Financial Services in the IBM Cloud Catalog
-
-<img src="https://farm5.staticflickr.com/4409/37328006152_4e409c3b7e_z.jpg" width="640" height="342" alt="Screen Shot 2017-09-27 at 12.46.12">
 
 * [Historical Instrument Analytics](https://console.bluemix.net/catalog/services/historical-instrument-analytics)
 * [Instrument Analytics](https://console.bluemix.net/catalog/services/instrument-analytics)
