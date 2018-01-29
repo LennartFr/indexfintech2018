@@ -25,6 +25,7 @@ https://developer.ibm.com/indexconf/sessions/#!?id=5454
 * Used in first lab: [Investment Portfolio](https://console.bluemix.net/catalog/services/investment-portfolio)
 * [Portfolio Optimization](https://console.bluemix.net/catalog/services/portfolio-optimization)
 * [Predictive Market Scenarios](https://console.bluemix.net/catalog/services/predictive-market-scenarios)
+* [Real-Time Payments](https://console.bluemix.net/catalog/services/real-time-payments)
 * [Simulated Historical Instrumental Analytics](https://console.bluemix.net/catalog/services/simulated-historical-instrument-analytics)
 * Used in first lab: [Simulated Instrumental Analytics](https://console.bluemix.net/catalog/services/simulated-instrument-analytics)
 
@@ -32,13 +33,20 @@ https://developer.ibm.com/indexconf/sessions/#!?id=5454
 ## Financial apps from IBM Business Partners in the IBM Cloud Catalog
 
 * [Accern-API](https://console.bluemix.net/catalog/services/accern-api)
+* [Adaptive Security Manager ASM](https://console.bluemix.net/catalog/services/adaptive-security-manager-asm)
+* [APIs from Pitney Bowes](https://console.bluemix.net/catalog/services/apis-from-pitney-bowes)
 * [Bondevalue API](https://console.bluemix.net/catalog/services/bondevalue-api)
+* [Coalesce for Risk and Compliance Monitoring](https://console.bluemix.net/catalog/services/coalesce-for-risk-and-compliance-monitoring)
+* [JKool ](https://console.bluemix.net/catalog/services/jkool)
 * [Payeezy](https://console.bluemix.net/catalog/services/payeezy)
 * [Plaid](https://console.bluemix.net/catalog/services/plaid)
+* [Arria Natural Language Generation APIs](https://console.bluemix.net/catalog/services/natural-language-generation-apis)
 * [Quovo](https://console.bluemix.net/catalog/services/quovo)
 * [RiskSpan RS Edge Loan Analytics](https://console.bluemix.net/catalog/services/riskspan-rs-edge-loan-analytics)
+* [TradeIt](https://console.bluemix.net/catalog/services/tradeit)
 * Can be used with first lab: [Xignite Market Data APIs](https://console.bluemix.net/catalog/services/xignite-market-data-apis)
 * [WealthEngine API](https://console.bluemix.net/catalog/services/wealthengine-api)
+* [YLabs](https://console.bluemix.net/catalog/services/ylabs)
 
 # 12:30: Exercise 1:  [Create a service-based chatbot to manage a personal wealth portfolio](https://developer.ibm.com/code/journey/create-an-investment-management-chatbot/)
 
