@@ -2,33 +2,23 @@
 
 <img src="https://farm5.staticflickr.com/4759/28189306259_b23c184cf5_z.jpg" width="623" height="361" alt="Index"><p>
 
-Lennart alf@us.ibm.com
-
-## [*Sign up for the IBM Cloud at no cost*](https://bluemix.net)
-
 # Title: Building Blocks for a Fintech World, IBM Cloud-based Services for Building Innovative Fintech Apps
 
-12:00 PM-12:30 PM|Tuesday, Feb. 20
-Moscone West/Level 2, Room 2006
-Session type: Workshop
-
+12:00 PM- 2:30 PM|Tuesday, Feb. 20 <br>
+Moscone West/Level 2, Room 2006 <br>
+Session type: Workshop <br>
+<p>
 The workshop will cover the IBM finance services hosted on the IBM Cloud: Instrument Analytics and its various versions, Investment Portfolio, Portfolio Optimization, Predictive Market Scenarios, focusing on APIs and integration points. In addition to working with the selected finance services from IBM, they will also work with services from Cloud-based business partners, focusing on Quovo and also including: Accern API, Payeezy, Plaid and Xignite Market Data APIs.
-
+<p>
 https://developer.ibm.com/indexconf/sessions/#!?id=5454
-
-
+<p>
 
 # Agenda
 ~~~
-6:00  Sign-in, mingle, food, welcome. Intro of Tom Eck, IBM CTO Industry Platforms
-6:20: Tom Eck: Introduction to the finance services in the IBM Cloud: 
-       the IBM experimental services and the Business Partner services, as well as some use cases. 
-       Alvin Cho Architect for Watson Fintech Hub.  
-6:40: Lennart: Introduction of the lab (Developer Journey). 
-6:45: Coding starts. 
-8:00: Coding ends.Q/A with Tom and the IBM team.  
-      Algorithmics Q/A
-8:30: Event ends   
+12:00  Tom Eck,CTO Industry Platforms: Introduction to the finance services in the IBM Cloud: 
+12:30: Exercise 1:  
+1:30   Exercise 2: [Compute stress test results on a financial investment portfolio using cloud services and give the results a voice using Arria NLG](https://github.com/IBM/predictive-market-using-arria/wiki)
+2:30:  Event ends   
 ~~~ 
 
 # Fintech and Data Analytics, what's it all about?
