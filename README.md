@@ -53,12 +53,9 @@ https://developer.ibm.com/indexconf/sessions/#!?id=5454
 
 # 1:30   Exercise 2: Compute stress test results on a financial investment portfolio using cloud services and give the results a voice using Arria NLG  https://github.com/IBM/predictive-market-using-arria/wiki
 
-# 2:30:  Workshop ends   
-
-# Workshop using the IBM Developer Journeys
-* First lab documentation: 
-
-# Wrap-up, where do we go from here?
+## Wrap-up, where do we go from here?
 * [Aditional Developer Journeys](https://developer.ibm.com/code/journey/) 
 * [IBM Fintech](https://www.ibm.com/us-en/marketplace/learning-lab/fintech)
 * Upcoming events
+
+# 2:30:  Workshop ends  
