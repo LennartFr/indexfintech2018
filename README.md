@@ -18,17 +18,6 @@ https://developer.ibm.com/indexconf/sessions/#!?id=5454
 * Demo: [Predictive Market Stress Testing  ](https://predictive-market-stress-testing.mybluemix.net/) 
 * [Risk Management. Make risk-aware decisions and meet regulatory compliance demands through smarter risk management.](https://www.ibm.com/analytics/us/en/business/risk-management/)
 
-## Financial apps from IBM Business Partners in the IBM Cloud Catalog
-
-* [Accern-API](https://console.bluemix.net/catalog/services/accern-api)
-* [Bondevalue API](https://console.bluemix.net/catalog/services/bondevalue-api)
-* [Payeezy](https://console.bluemix.net/catalog/services/payeezy)
-* [Plaid](https://console.bluemix.net/catalog/services/plaid)
-* [Quovo](https://console.bluemix.net/catalog/services/quovo)
-* [RiskSpan RS Edge Loan Analytics](https://console.bluemix.net/catalog/services/riskspan-rs-edge-loan-analytics)
-* Can be used with first lab: [Xignite Market Data APIs](https://console.bluemix.net/catalog/services/xignite-market-data-apis)
-* [WealthEngine API](https://console.bluemix.net/catalog/services/wealthengine-api)
-
 ## IBM Experimental Financial Services in the IBM Cloud Catalog
 
 * [Historical Instrument Analytics](https://console.bluemix.net/catalog/services/historical-instrument-analytics)
@@ -40,9 +29,18 @@ https://developer.ibm.com/indexconf/sessions/#!?id=5454
 * Used in first lab: [Simulated Instrumental Analytics](https://console.bluemix.net/catalog/services/simulated-instrument-analytics)
 
 
-# 12:30: Exercise 1:  
-[Create a service-based chatbot to manage a personal wealth portfolio](https://developer.ibm.com/code/journey/create-an-investment-management-chatbot/)
+## Financial apps from IBM Business Partners in the IBM Cloud Catalog
 
+* [Accern-API](https://console.bluemix.net/catalog/services/accern-api)
+* [Bondevalue API](https://console.bluemix.net/catalog/services/bondevalue-api)
+* [Payeezy](https://console.bluemix.net/catalog/services/payeezy)
+* [Plaid](https://console.bluemix.net/catalog/services/plaid)
+* [Quovo](https://console.bluemix.net/catalog/services/quovo)
+* [RiskSpan RS Edge Loan Analytics](https://console.bluemix.net/catalog/services/riskspan-rs-edge-loan-analytics)
+* Can be used with first lab: [Xignite Market Data APIs](https://console.bluemix.net/catalog/services/xignite-market-data-apis)
+* [WealthEngine API](https://console.bluemix.net/catalog/services/wealthengine-api)
+
+# 12:30: Exercise 1:  [Create a service-based chatbot to manage a personal wealth portfolio](https://developer.ibm.com/code/journey/create-an-investment-management-chatbot/)
 
 * [First Lab Code, click here: **http://bit.ly/2fU0Gpg**](https://github.com/LennartFr/personal-wealth-portfolio-mgt-bot/blob/master/README.md)
 
