@@ -15,7 +15,7 @@ The workshop will cover the IBM finance services hosted on the IBM Cloud: Instru
 
 # 12:00  Introduction to the finance services in the IBM Cloud: 
 
-*[IBM Watson Financial Services](https://www.ibm.com/watson/financial-services/)
+* [IBM Watson Financial Services](https://www.ibm.com/watson/financial-services/)
 * [IBM Cloud for Financial Services](https://developer.ibm.com/finance/)
 
 * Demo: [Investment Insights for Asset Managers](https://investment-insights-am.mybluemix.net/)
