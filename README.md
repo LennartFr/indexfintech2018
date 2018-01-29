@@ -8,7 +8,7 @@ Session type: Workshop <br>
 <p>
 The workshop will cover the IBM finance services hosted on the IBM Cloud: Instrument Analytics and its various versions, Investment Portfolio, Portfolio Optimization, Predictive Market Scenarios, focusing on APIs and integration points. In addition to working with the selected finance services from IBM, they will also work with services from Cloud-based business partners, focusing on Quovo and also including: Accern API, Payeezy, Plaid and Xignite Market Data APIs.
 <p>
-https://developer.ibm.com/indexconf/sessions/#!?id=5454
+(Session Title at Index conference: https://developer.ibm.com/indexconf/sessions/#!?id=5454)
 <p>
 
 # 12:00  Introduction to the finance services in the IBM Cloud: 
