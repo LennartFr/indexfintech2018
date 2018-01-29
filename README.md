@@ -44,8 +44,8 @@ https://developer.ibm.com/indexconf/sessions/#!?id=5454
 * [Quovo](https://console.bluemix.net/catalog/services/quovo)
 * [RiskSpan RS Edge Loan Analytics](https://console.bluemix.net/catalog/services/riskspan-rs-edge-loan-analytics)
 * [TradeIt](https://console.bluemix.net/catalog/services/tradeit)
-* Can be used with first lab: [Xignite Market Data APIs](https://console.bluemix.net/catalog/services/xignite-market-data-apis)
 * [WealthEngine API](https://console.bluemix.net/catalog/services/wealthengine-api)
+* [Xignite Market Data APIs](https://console.bluemix.net/catalog/services/xignite-market-data-apis)
 * [YLabs](https://console.bluemix.net/catalog/services/ylabs)
 
 # 12:30: Exercise 1:  [Create a service-based chatbot to manage a personal wealth portfolio](https://developer.ibm.com/code/journey/create-an-investment-management-chatbot/)
