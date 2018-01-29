@@ -2,7 +2,7 @@
 
 <img src="https://farm5.staticflickr.com/4759/28189306259_b23c184cf5_z.jpg" width="623" height="361" alt="Index"><p>
  
-12:00 PM- 2:30 PM Tuesday, Feb. 20 <br>
+12:00 PM - 2:30 PM Tuesday, Feb. 20 <br>
 Moscone West/Level 2, Room 2006 <br>
 Session type: Workshop <br>
 <p>
