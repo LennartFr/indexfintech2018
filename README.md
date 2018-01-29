@@ -11,9 +11,7 @@ The workshop will cover the IBM finance services hosted on the IBM Cloud: Instru
 https://developer.ibm.com/indexconf/sessions/#!?id=5454
 <p>
 
-# Agenda
-
-# 12:00  Tom Eck,CTO Industry Platforms: Introduction to the finance services in the IBM Cloud: 
+# 12:00  Introduction to the finance services in the IBM Cloud: 
 
 * Demo: [Investment Insights for Asset Managers](https://investment-insights-am.mybluemix.net/)
 * [Announcing the Predictive Market Scenarios experimental service](https://www.ibm.com/blogs/bluemix/2017/05/announcing-predictive-market-scenarios-experimental-service/)
