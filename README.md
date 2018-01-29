@@ -14,14 +14,9 @@ https://developer.ibm.com/indexconf/sessions/#!?id=5454
 <p>
 
 # Agenda
-~~~
-12:00  Tom Eck,CTO Industry Platforms: Introduction to the finance services in the IBM Cloud: 
-12:30: Exercise 1:  
-1:30   Exercise 2: [Compute stress test results on a financial investment portfolio using cloud services and give the results a voice using Arria NLG](https://github.com/IBM/predictive-market-using-arria/wiki)
-2:30:  Event ends   
-~~~ 
 
-# Fintech and Data Analytics, what's it all about?
+# 12:00  Tom Eck,CTO Industry Platforms: Introduction to the finance services in the IBM Cloud: 
+
 * Demo: [Investment Insights for Asset Managers](https://investment-insights-am.mybluemix.net/)
 * [Announcing the Predictive Market Scenarios experimental service](https://www.ibm.com/blogs/bluemix/2017/05/announcing-predictive-market-scenarios-experimental-service/)
 * Demo: [Predictive Market Stress Testing  ](https://predictive-market-stress-testing.mybluemix.net/) 
@@ -52,8 +47,10 @@ https://developer.ibm.com/indexconf/sessions/#!?id=5454
 * [Simulated Historical Instrumental Analytics](https://console.bluemix.net/catalog/services/simulated-historical-instrument-analytics)
 * Used in first lab: [Simulated Instrumental Analytics](https://console.bluemix.net/catalog/services/simulated-instrument-analytics)
 
-# Workshop using the IBM Developer Journeys
-* First lab documentation: [Create a service-based chatbot to manage a personal wealth portfolio](https://developer.ibm.com/code/journey/create-an-investment-management-chatbot/)
+
+# 12:30: Exercise 1:  
+[Create a service-based chatbot to manage a personal wealth portfolio](https://developer.ibm.com/code/journey/create-an-investment-management-chatbot/)
+
 
 * [First Lab Code, click here: **http://bit.ly/2fU0Gpg**](https://github.com/LennartFr/personal-wealth-portfolio-mgt-bot/blob/master/README.md)
 
@@ -62,6 +59,14 @@ https://developer.ibm.com/indexconf/sessions/#!?id=5454
 * Third Lab: [Aggregate and onboard investment holdings using Quovo Aggregation API, IBM Data Science Experience, and the Bluemix Investment Portfolio service](https://developer.ibm.com/code/journey/integrate-a-financial-investment-portfolio/)
 * [Utilize retail banking APIs to drive fast, agile innovation with mainframe hybrid cloud architecture](https://developer.ibm.com/code/journey/create-financial-applications-using-apis-on-mainframe/)
 * [Accurately assess financial risk levels using machine learning on a mainframe](https://developer.ibm.com/code/journey/apply-machine-learning-to-financial-risk-management/)
+
+
+# 1:30   Exercise 2: Compute stress test results on a financial investment portfolio using cloud services and give the results a voice using Arria NLG  https://github.com/IBM/predictive-market-using-arria/wiki
+
+# 2:30:  Workshop ends   
+
+# Workshop using the IBM Developer Journeys
+* First lab documentation: 
 
 # Wrap-up, where do we go from here?
 * [Aditional Developer Journeys](https://developer.ibm.com/code/journey/) 
