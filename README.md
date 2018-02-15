@@ -1,3 +1,5 @@
+<img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
+
 # Workshop: Building Blocks for a Fintech World, IBM Cloud-based Services for Building Innovative Fintech Apps
 
 # [https://ibm.biz/indexfintech2018](https://ibm.biz/indexfintech2018)
@@ -15,11 +17,10 @@ Session type: Workshop <br>
 <p>
 
 # 12:00  Introduction to the finance services in the IBM Cloud: 
-* [YLabs](https://console.bluemix.net/catalog/services/ylabs)
 
 # 12:15: Lab 1: [Arria Natural Language Generation APIs](https://console.bluemix.net/catalog/services/natural-language-generation-apis)  
 
-# 1:15:  Lab 2:[YLabs](https://console.bluemix.net/catalog/services/ylabs?taxonomyNavigation=finance) 
+# 1:15:  Lab 2:[YLabs](https://console.bluemix.net/catalog/services/ylabs)
 
 # 2:15 Wrap-up, where do we go from here?
 * [Aditional Developer Journeys](https://developer.ibm.com/code/journey/) 
