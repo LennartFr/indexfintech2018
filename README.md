@@ -1,6 +1,6 @@
 # Workshop: Building Blocks for a Fintech World, IBM Cloud-based Services for Building Innovative Fintech Apps
 
-# [indexfintech20180(ibm.biz/indexfintech2018)
+# [indexfintech20180](ibm.biz/indexfintech2018)
 
 <img src="https://farm5.staticflickr.com/4759/28189306259_b23c184cf5_z.jpg" width="623" height="361" alt="Index"><p>
  
