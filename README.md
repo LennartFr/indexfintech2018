@@ -25,6 +25,6 @@ Session type: Workshop <br>
 # 2:15 Wrap-up, where do we go from here?
 * [Aditional Developer Journeys](https://developer.ibm.com/code/journey/) 
 * [IBM Fintech](https://www.ibm.com/us-en/marketplace/learning-lab/fintech)
-* Upcoming events
+* [IBM Cloud for Financial Services](https://www.ibm.com/cloud/banking)
 
 # 2:30:  Workshop ends  
